@@ -15,7 +15,7 @@
     "eslint-config-dsfx3d": "^0.1.5",
     "husky": "^9.0.0",
     "prettier": "^3.0.3",
-    "typescript": "^5.2.2"
+    "typescript": "^6.0.0"
   },
   "dependencies": {
     "@actions/core": "^1.10.0",
